@@ -1,0 +1,6 @@
+[submodule "kitty-config"]
+	path = kitty-config
+	url = https://github.com/isaacdonaldson/kitty-config
+[submodule "astronvim_config"]
+	path = astronvim_config
+	url = https://github.com/isaacdonaldson/astronvim_config

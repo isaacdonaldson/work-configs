@@ -4,3 +4,6 @@
 [submodule "astronvim_config"]
 	path = astronvim_config
 	url = https://github.com/isaacdonaldson/astronvim_config
+[submodule "ghostty-config"]
+	path = ghostty-config
+	url = https://github.com/isaacdonaldson/ghostty-config

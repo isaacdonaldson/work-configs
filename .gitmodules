@@ -7,3 +7,6 @@
 [submodule "ghostty-config"]
 	path = ghostty-config
 	url = https://github.com/isaacdonaldson/ghostty-config
+[submodule "zed-config"]
+	path = zed-config
+	url = https://github.com/isaacdonaldson/zed-config
